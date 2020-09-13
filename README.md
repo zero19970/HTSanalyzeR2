@@ -1,4 +1,3 @@
-
 # HTSanalyzeR2  
 
 Welcome to the homepage of **HTSanalyzeR2** package!
